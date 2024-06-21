@@ -1,0 +1,16 @@
+receptor = cp3_292.pdbqt
+ligand = aa038b_model1.pdbqt
+
+out = out.pdbqt
+log = log.txt
+
+center_x = -17.658
+center_y = 0.864
+center_z = 35.359
+
+size_x = 64
+size_y = 70
+size_z = 60
+
+exhaustiveness = 2
+cpu = 2

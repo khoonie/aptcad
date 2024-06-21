@@ -1,0 +1,15 @@
+receptor = 1hzh_AptC.pdbqt
+ligand = T3.pdbqt
+
+log = AptC_T3_LOG.txt
+out = AptC_T3_OUT.pdbqt
+
+center_x = 88.027
+center_y = 114.118
+center_z = 192.745
+
+size_x = 126
+size_y = 122
+size_z = 126
+
+exhaustiveness = 2

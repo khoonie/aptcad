@@ -1,0 +1,16 @@
+receptor = PROTEIN.pdbqt	
+ligand = s3_model1.pdbqt
+
+out = CEAPROTEIN_S3OUT.pdbqt
+log = CEAPROTEIN_S3log.txt
+
+center_x = -0.974
+center_y = 11.373
+center_z = 2.872
+
+size_x = 126
+size_y = 86
+size_z = 126
+
+exhaustiveness = 2
+cpu = 2

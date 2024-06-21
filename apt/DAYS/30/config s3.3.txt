@@ -1,0 +1,16 @@
+receptor = PROTEIN.pdbqt
+ligand = S3_3_model1.pdbqt
+
+out = S3_3.pdbqt
+log = S3_3log.txt
+
+center_x = 7.215
+center_y = -30.328
+center_z = -14.463
+
+size_x = 54
+size_y = 58
+size_z = 76
+
+exhaustiveness = 2
+cpu = 2
